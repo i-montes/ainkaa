@@ -1,7 +1,7 @@
 			#Footer {
 				background-image: url(i../mages/hosting2-home-footer-bg.png);
 				background-repeat: no-repeat;
-				background-position: center top
+				background-position: center top 
 			}
 			@media only screen and (min-width: 1240px) {
 				body:not(.header-simple) #Top_bar #menu {
